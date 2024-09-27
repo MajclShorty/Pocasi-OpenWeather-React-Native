@@ -1,1 +1,1 @@
-# Pocasi-OpenWeather-React-Native
+# Zde naleznete hlavní soubory aplikace o Počasí
